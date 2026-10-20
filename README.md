@@ -2,7 +2,7 @@
 
 <img src="./main/sakura-header.gif" width="100%" alt="sakura header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=hi!+I'm+Xiripa+🎀;Computer+Engineering+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+C+%7C+SQL+%7C+VHDL;databases+%2B+web+%2B+games+🎮;compiling+everything+with+cuteness+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF8FAB&center=true&vCenter=true&width=800&height=50&lines=hi!+I'm+Xiripa+🎀;Computer+Engineering+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+C+%7C+SQL+%7C+VHDL;databases+%2B+web+%2B+games+🎮;compiling+everything+with+cuteness+✨)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipa-ramos-0701b0388/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-a2d2ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipa.a.ramos/)
