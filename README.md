@@ -19,11 +19,11 @@
 </td>
 <td>
 
-Olá! Sou a **Filipa** (mas chamam-me **Xiripa** 🎀), estudante de **Engenharia Informática** no **ISEL**. Gosto de bases de dados, web e de construir coisas que funcionam *e* são bonitas ✨
+Olá! Sou a **Filipa** (mas chamam-me **Xiripa** 🎀), estudante de **Engenharia Informática e de Computadores** no **ISEL**. Gosto de construir coisas que funcionam *e* são bonitas ✨
 
 🌷 Membro da **WIE** (IEEE), **IEEE** e **AEISEL**
 🚩 Fiz bootcamp de **CTF**
-📚 Dou explicações de Matemática B
+📚 Dou explicações de Matemática A e MACS
 
 </td>
 </tr>
