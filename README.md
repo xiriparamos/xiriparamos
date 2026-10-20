@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./main/8b14654c730932b617852ada3ff46f50.gif" width="100%">
+<img src="./main/8b14654c730932b617852ada3ff46f50.gif" width="100%" height="70%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=hi!+I'm+Xiripa+🎀;Computer+Engineering+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+C+%7C+SQL+%7C+VHDL;databases+%2B+web+%2B+games+🎮;compiling+everything+with+cuteness+✨)](https://git.io/typing-svg)
 
