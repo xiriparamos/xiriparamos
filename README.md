@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=olá!+sou+a+Xiripa+🎀;LEIC+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+SQL+%7C+VHDL;bases+de+dados+%2B+web+%2B+jogos+🎮;a+compilar+tudo+com+fofura+✨)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/O_TEU_LINK)
-[![Gmail](https://img.shields.io/badge/GMAIL-a2d2ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:O_TEU_EMAIL)
-![Visitas](https://komarev.com/ghpvc/?username=xiriparamos&color=ffafcc&style=for-the-badge&label=VISITAS+🌸)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/filipa-ramos-0701b0388/?isSelfProfile=true))
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-a2d2ff?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/O_TEU_INSTA](https://www.instagram.com/filipa.a.ramos/))
+![Visitas](https://hits.sh/github.com/xiriparamos/xiriparamos.svg?style=for-the-badge&label=VISITAS%20🌸&color=ffafcc)
 
 </div>
 
