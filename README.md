@@ -2,11 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=230&section=header&text=Xiripa%20🌸&fontSize=66&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=✨%20Welcome%20to%20my%20GitHub%20✨&descAlignY=60&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=olá!+sou+a+Xiripa+🎀;LEIC+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+SQL+%7C+VHDL;bases+de+dados+%2B+web+%2B+jogos+🎮;a+compilar+tudo+com+fofura+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=hi!+I'm+Xiripa+🎀;Computer+Engineering+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+C+%7C+SQL+%7C+VHDL;databases+%2B+web+%2B+games+🎮;compiling+everything+with+cuteness+✨)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/filipa-ramos-0701b0388/?isSelfProfile=true))
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-a2d2ff?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/O_TEU_INSTA](https://www.instagram.com/filipa.a.ramos/))
-![Visitas](https://hits.sh/github.com/xiriparamos/xiriparamos.svg?style=for-the-badge&label=VISITAS%20🌸&color=ffafcc)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipa-ramos-0701b0388/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-a2d2ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipa.a.ramos/)
+![Visits](https://hits.sh/github.com/xiriparamos/xiriparamos.svg?style=for-the-badge&label=VISITS%20🌸&color=ffafcc)
 
 </div>
 
@@ -19,11 +19,11 @@
 </td>
 <td>
 
-Olá! Sou a **Filipa** (mas chamam-me **Xiripa** 🎀), estudante de **Engenharia Informática e de Computadores** no **ISEL**. Gosto de construir coisas que funcionam *e* são bonitas ✨
+Hi! I'm **Filipa** (everyone calls me **Xiripa** 🎀), a **Computer Science and Engineering** student at **ISEL**. I love building things that work *and* look pretty ✨
 
-🌷 Membro da **WIE** (IEEE), **IEEE** e **AEISEL**
-🚩 Fiz bootcamp de **CTF**
-📚 Dou explicações de Matemática A e MACS
+🌷 Member of **WIE** (IEEE), **IEEE** and **AEISEL**
+🚩 Did a **CTF** bootcamp
+📚 I tutor Mathematics A and MACS
 
 </td>
 </tr>
@@ -33,15 +33,26 @@ Olá! Sou a **Filipa** (mas chamam-me **Xiripa** 🎀), estudante de **Engenhari
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,js,html,css,git,github,idea,vscode,latex,postgres,mysql&perline=6" />
+**🌸 languages**
 
-![VHDL](https://img.shields.io/badge/VHDL-ffc8dd?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-a2d2ff?style=for-the-badge&logo=databricks&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-ffafcc?style=for-the-badge&logo=overleaf&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff8fab?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-a2d2ff?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-ffafcc?style=for-the-badge&logo=c&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-bde0fe?style=for-the-badge&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-ffc8dd?style=for-the-badge&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-cdb4db?style=for-the-badge&logo=databricks&logoColor=white)
+
+**🎀 tools**
+
+![Git](https://img.shields.io/badge/Git-a2d2ff?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff8fab?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-ffc8dd?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-bde0fe?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-ffafcc?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 
 </div>
 
-<h2 align="center">🩷 A trabalhar em 🩷</h2>
+<h2 align="center">🩷 Currently working on 🩷</h2>
 
 <div align="center">
 
@@ -52,11 +63,11 @@ Olá! Sou a **Filipa** (mas chamam-me **Xiripa** 🎀), estudante de **Engenhari
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiriparamos&repo=LabsAPW&theme=transparent&title_color=ff8fab&icon_color=a2d2ff&text_color=7a7a9d&border_color=ffc8dd" />
 </a>
 
-| 🌸 projeto | 🎀 o que é | 🛠️ tech |
+| 🌸 project | 🎀 what it is | 🛠️ tech |
 |:---:|:---:|:---:|
-| **Go** 🎮 | jogo Go com tabuleiro, regras e persistência | Kotlin |
-| **LabsAPW** 🌐 | Arquitetura e Programação Web | JavaScript |
-| **ISI_grupo** 🗄️ | base de dados dos exames nacionais | SQL |
+| **Go** 🎮 | Go game with board, rules and persistence | Kotlin |
+| **LabsAPW** 🌐 | Web Architecture and Programming labs | JavaScript |
+| **ISI_grupo** 🗄️ | national exams database | SQL |
 
 </div>
 
@@ -69,19 +80,17 @@ Olá! Sou a **Filipa** (mas chamam-me **Xiripa** 🎀), estudante de **Engenhari
 
 <img src="https://streak-stats.demolab.com?user=xiriparamos&background=00000000&ring=ff8fab&fire=ffb6c1&currStreakLabel=7a7a9d&sideLabels=7a7a9d&currStreakNum=ff8fab&sideNums=a2d2ff&dates=7a7a9d&border=ffc8dd" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=xiriparamos&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10" />
-
 </div>
 
 <h2 align="center">📈 Contribution graph 📈</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xiriparamos&bg_color=00000000&color=ff8fab&line=ffb6c1&point=a2d2ff&area=true&area_color=ff8fab&hide_border=true&title_color=ff8fab&custom_title=Xiripa%27s%20Contribution%20Graph" width="95%"/>
+<img src="https://raw.githubusercontent.com/xiriparamos/xiriparamos/output/graph.svg" width="95%"/>
 
 </div>
 
-<h2 align="center">🐍 A cobrinha come os meus commits 🐍</h2>
+<h2 align="center">🐍 The snake eats my commits 🐍</h2>
 
 <img src="https://raw.githubusercontent.com/xiriparamos/xiriparamos/output/snake.svg" width="100%"/>
 
