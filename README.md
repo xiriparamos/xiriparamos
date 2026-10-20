@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=230&section=header&text=Xiripa%20🌸&fontSize=66&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=✨%20Welcome%20to%20my%20GitHub%20✨&descAlignY=60&descSize=20)
+<img src="https://raw.githubusercontent.com/xiriparamos/xiriparamos/main/header.svg" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=hi!+I'm+Xiripa+🎀;Computer+Engineering+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+C+%7C+SQL+%7C+VHDL;databases+%2B+web+%2B+games+🎮;compiling+everything+with+cuteness+✨)](https://git.io/typing-svg)
 
@@ -100,6 +100,6 @@ Hi! I'm **Filipa** (everyone calls me **Xiripa** 🎀), a **Computer Science and
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ffc2d1&height=120&section=footer)
 
 </div>
