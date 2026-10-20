@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xiriparamos/xiriparamos/main/header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/xiriparamos/xiriparamos/main/main/header.svg" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=hi!+I'm+Xiripa+🎀;Computer+Engineering+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+C+%7C+SQL+%7C+VHDL;databases+%2B+web+%2B+games+🎮;compiling+everything+with+cuteness+✨)](https://git.io/typing-svg)
 
