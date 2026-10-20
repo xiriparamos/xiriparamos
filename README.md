@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./main/8b14654c730932b617852ada3ff46f50.gif" width="100%" height="70%">
+<img src="./main/sakura-header.gif" width="100%" alt="sakura header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF8FAB&center=true&vCenter=true&width=540&lines=hi!+I'm+Xiripa+🎀;Computer+Engineering+%40+ISEL+🌸;Kotlin+%7C+JavaScript+%7C+C+%7C+SQL+%7C+VHDL;databases+%2B+web+%2B+games+🎮;compiling+everything+with+cuteness+✨)](https://git.io/typing-svg)
 
@@ -29,6 +29,8 @@ Hi! I'm **Filipa** (everyone calls me **Xiripa** 🎀), a **Computer Science and
 </tr>
 </table>
 
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✦</p>
+
 <h2 align="center">💻 Tech stack 💻</h2>
 
 <div align="center">
@@ -50,7 +52,15 @@ Hi! I'm **Filipa** (everyone calls me **Xiripa** 🎀), a **Computer Science and
 ![VS Code](https://img.shields.io/badge/VS_Code-bde0fe?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-ffafcc?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 
+**🌱 currently learning**
+
+![Security](https://img.shields.io/badge/CTF_&_Security-cdb4db?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Architecture-ffc8dd?style=for-the-badge&logo=html5&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-a2d2ff?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
+
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✦</p>
 
 <h2 align="center">🩷 Currently working on 🩷</h2>
 
@@ -70,6 +80,8 @@ Hi! I'm **Filipa** (everyone calls me **Xiripa** 🎀), a **Computer Science and
 | **ISI_grupo** 🗄️ | national exams database | SQL |
 
 </div>
+
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✦</p>
 
 <h2 align="center">📊 GitHub analytics 📊</h2>
 
@@ -94,11 +106,39 @@ Hi! I'm **Filipa** (everyone calls me **Xiripa** 🎀), a **Computer Science and
 
 <img src="https://raw.githubusercontent.com/xiriparamos/xiriparamos/output/snake.svg" width="100%"/>
 
+<p align="center">✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✦</p>
+
+<h2 align="center">🎧 Fun facts 🎧</h2>
+
+<div align="center">
+<details>
+<summary><b>🌸 click to open 🌸</b></summary>
+<br>
+
+🎮 I like games enough to build one (yes, the Go project!)<br>
+🚩 CTFs make me feel like a hacker in a movie<br>
+🎀 Everything I code has to look pretty too<br>
+📚 Explaining maths to others is how I learn it best
+
+</details>
+</div>
+
+<h2 align="center">💌 Let's connect 💌</h2>
+
+<div align="center">
+
+*open to collabs, study groups and good music recommendations* 🎶
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc8dd?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipa-ramos-0701b0388/)
+[![Instagram](https://img.shields.io/badge/Instagram-bde0fe?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/filipa.a.ramos/)
+
+</div>
+
 <h2 align="center">💬 Random dev quote 💬</h2>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffc2d1&height=120&section=footer)
 
